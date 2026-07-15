@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://osmangundemir.github.io/](https://ogean.github.io/osmangundemir/"><img src="https://img.shields.io/badge/Portfolio-2F5FE0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://ogean.github.io/osmangundemir/"><img src="https://img.shields.io/badge/Portfolio-2F5FE0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/osman-g%C3%BCndemir-594053267/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:osmangundemir1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
